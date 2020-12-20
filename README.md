@@ -6,6 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamik05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on Dirtfolio
+
+
 🌱 I’m currently learning typescript
 
 <!--
