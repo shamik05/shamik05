@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamik05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Code Wars](https://www.codewars.com/users/shamik05/badges/large)
+[![Code Wars](https://www.codewars.com/users/shamik05/badges/large)](https://www.codewars.com/users/shamik05)
 
 🔭 I’m currently working on Dirtfolio
 
