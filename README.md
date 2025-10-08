@@ -10,7 +10,7 @@
 🔭 I’m currently working on Dirtfolio
 
 
-🌱 I’m currently learning typescript
+🌱 I’m currently learning python
 
 <!--
 **shamik05/shamik05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
